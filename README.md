@@ -11,8 +11,9 @@ It sells muffin, scone, tea and coffee, plus cream on the side.
 This app uses javascript, ES6, paypal sandbox.
 
 User instructions:
-1. enter "Hello" in the chat bot
-2. enter Arabic number when it comes to amount
+1. fresh the webpage and click the bin icon once before using it.
+2. enter "Hello" in the chat bot.
+3. enter Arabic number when it comes to amount.
 
 
 
