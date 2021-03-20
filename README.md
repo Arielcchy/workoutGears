@@ -1,6 +1,6 @@
 # <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">ES6 Order Bot</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+I got this file from rhildred, the user interface for the web from a student of rhildred, Pat Wilken.
 
 To run:
 
@@ -14,11 +14,3 @@ Extend the order bot from assignment 1. You need to have at least 2 items on the
 
 For Assignment 2 you need to add paypal and a payment screen as in the scaffold.
 
-### Marking
-
-basic order for an item with payment in a zip (65%)
-calculation of amount (up to 10%)
-error handling (up to 10%)
-get the delivery address from paypal's shipping address (up to 15%)
-
-There is a brief [presentation here](ES6Templates.pdf).
