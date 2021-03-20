@@ -1,16 +1,18 @@
-# <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">ES6 Order Bot</a>
-
+# <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">PROG 8560-Assignment 3-ES6 Order Bot</a>
 I got this file from rhildred, the user interface for the web from a student of rhildred, Pat Wilken.
 
-To run:
 
-1. Sign up for paypal developer sandbox and get a client id
-2. The first time run `npm install`
-3. `SB_CLIENT_ID=<put_in_your_client_id> npm start`
+Name: 
+Arielcchy
 
-## Assignment 2
+App description: 
+This is a mobile simulation chat bot for Ariel's dessert bar through contactless mobile order system.
+It sells muffin, scone, tea and coffee, plus cream on the side.
+This app uses javascript, ES6, paypal sandbox.
 
-Extend the order bot from assignment 1. You need to have at least 2 items on the menu unless your favourite food is pizza in which case you need to have 3 (I did pizza already). The menu items need to have size and one other attribute like toppings. You also need an up-sell item like drinks in the example.
+User instructions:
+1. enter "Hello" in the chat bot
+2. enter Arabic number when it comes to amount
 
-For Assignment 2 you need to add paypal and a payment screen as in the scaffold.
+
 
