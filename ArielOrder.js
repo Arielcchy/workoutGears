@@ -128,7 +128,7 @@ module.exports = class ArielOrder extends Order {
   }
   renderForm() {
     // your client id should be kept private
-    const sClientID = process.env.SB_CLIENT_ID || 'put your client id here for testing ... Make sure that you delete it before committing'
+    const sClientID = process.env.SB_CLIENT_ID || 'Ab_14vKksNcgkV2iaAjFn4BzJSYAwyNcdMdwgNFz8unCF58ASwmU7OiDJR4s92MTCsBIXBwIVNahit7E'
     
     return (`
       <!DOCTYPE html>
