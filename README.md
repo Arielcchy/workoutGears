@@ -1,4 +1,4 @@
-# <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">PROG 8560-Assignment 3-ES6 Order Bot</a>
+# <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">PROG 8110-Assignment 2-ES6 Order Bot</a>
 I got this file from rhildred, the user interface for the web from a student of rhildred, Pat Wilken.
 
 
